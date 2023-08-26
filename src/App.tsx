@@ -29,7 +29,7 @@ function App() {
         </Alert>
       )}
       <Button onClick={onClick} color="info">
-        Click me <i className="fa-regular fa-mug-hot"></i>
+        open info <i className="fa-regular fa-mug-hot"></i>
       </Button>
     </>
   );
